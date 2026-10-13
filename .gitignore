@@ -1,0 +1,11 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+vector_db/
+data/
+logs/
+*.sources.json
+!TN_Agriculture_Schemes.sources.json
+.streamlit/secrets.toml
